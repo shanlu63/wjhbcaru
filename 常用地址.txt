@@ -1,0 +1,19 @@
+C:\Users\s.lu\Downloads\123
+
+非固定地址
+wei_zhi = input("请输入Excel文件所在的目录： ")
+
+
+
+固定地址
+
+ wei_zhi = 'C:\\Users\\s.lu\\Downloads\\123'
+
+'C:\\Users\\s.lu\\Downloads\\123\\TABLEAUINFO.xlsx'
+
+'C:\\Users\\s.lu\\Downloads\\model\\MODELE_TABLEAU_INFORMATION_ETUDE_PROSPECTION.xlsx'
+
+'C:\Users\s.lu\Downloads\123'
+
+"C:\Users\s.lu\Downloads\123 "
+
